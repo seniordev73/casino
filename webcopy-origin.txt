@@ -1,0 +1,868 @@
+Uri: https://img.youtube.com/vi/53CRHHDQ-78/hqdefault.jpg
+File Name: C:\Downloaded Web Sites\www.rummytime.com\vi\53CRHHDQ-78\hqdefault.jpg
+Content Type: image/jpeg
+
+Uri: https://img.youtube.com/vi/f6EQQpYLhkk/hqdefault.jpg
+File Name: C:\Downloaded Web Sites\www.rummytime.com\vi\f6EQQpYLhkk\hqdefault.jpg
+Content Type: image/jpeg
+
+Uri: https://img.youtube.com/vi/jWcIBxXUddc/hqdefault.jpg
+File Name: C:\Downloaded Web Sites\www.rummytime.com\vi\jWcIBxXUddc\hqdefault.jpg
+Content Type: image/jpeg
+
+Uri: https://img.youtube.com/vi/TYnxBwh_zZI/hqdefault.jpg
+File Name: C:\Downloaded Web Sites\www.rummytime.com\vi\TYnxBwh_zZI\hqdefault.jpg
+Content Type: image/jpeg
+
+Uri: https://img.youtube.com/vi/_xDd8-j6fOc/hqdefault.jpg
+File Name: C:\Downloaded Web Sites\www.rummytime.com\vi\_xDd8-j6fOc\hqdefault.jpg
+Content Type: image/jpeg
+
+Uri: https://static.rummytime.com/website/images/downloads-fire/fire.gif
+File Name: C:\Downloaded Web Sites\www.rummytime.com\website\images\downloads-fire\fire.gif
+Content Type: image/gif
+
+Uri: https://static.rummytime.com/website/images/faq/faq-banner.jpg
+File Name: C:\Downloaded Web Sites\www.rummytime.com\website\images\faq\faq-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://static.rummytime.com/website/images/faq/faq-banner.webp
+File Name: C:\Downloaded Web Sites\www.rummytime.com\website\images\faq\faq-banner.webp
+Content Type: image/webp
+
+Uri: https://static.rummytime.com/website/images/faq/icons/faq.svg
+File Name: C:\Downloaded Web Sites\www.rummytime.com\website\images\faq\icons\faq.svg
+Content Type: image/svg+xml
+
+Uri: https://static.rummytime.com/website/images/generic-icons/breadcrum-icon.svg
+File Name: C:\Downloaded Web Sites\www.rummytime.com\website\images\generic-icons\breadcrum-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://static.rummytime.com/website/images/generic-icons/close-icon.svg
+File Name: C:\Downloaded Web Sites\www.rummytime.com\website\images\generic-icons\close-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://static.rummytime.com/website/images/generic-icons/hamburger-icon-white.svg
+File Name: C:\Downloaded Web Sites\www.rummytime.com\website\images\generic-icons\hamburger-icon-white.svg
+Content Type: image/svg+xml
+
+Uri: https://static.rummytime.com/website/images/home-page-v2/banner/banner-background-v2-mobile.svg
+File Name: C:\Downloaded Web Sites\www.rummytime.com\website\images\home-page-v2\banner\banner-background-v2-mobile.svg
+Content Type: image/svg+xml
+
+Uri: https://static.rummytime.com/website/images/home-page-v2/game-types/101-pool-rummy.webp
+File Name: C:\Downloaded Web Sites\www.rummytime.com\website\images\home-page-v2\game-types\101-pool-rummy.webp
+Content Type: image/webp
+
+Uri: https://static.rummytime.com/website/images/home-page-v2/game-types/201-pool-rummy.webp
+File Name: C:\Downloaded Web Sites\www.rummytime.com\website\images\home-page-v2\game-types\201-pool-rummy.webp
+Content Type: image/webp
+
+Uri: https://static.rummytime.com/website/images/home-page-v2/game-types/deala-rummy.webp
+File Name: C:\Downloaded Web Sites\www.rummytime.com\website\images\home-page-v2\game-types\deala-rummy.webp
+Content Type: image/webp
+
+Uri: https://static.rummytime.com/website/images/home-page-v2/game-types/points-rummy.webp
+File Name: C:\Downloaded Web Sites\www.rummytime.com\website\images\home-page-v2\game-types\points-rummy.webp
+Content Type: image/webp
+
+Uri: https://static.rummytime.com/website/images/home-page-v2/value-propositions/Call-support-to-All.svg
+File Name: C:\Downloaded Web Sites\www.rummytime.com\website\images\home-page-v2\value-propositions\Call-support-to-All.svg
+Content Type: image/svg+xml
+
+Uri: https://static.rummytime.com/website/images/home-page-v2/value-propositions/unlimited-free-games.svg
+File Name: C:\Downloaded Web Sites\www.rummytime.com\website\images\home-page-v2\value-propositions\unlimited-free-games.svg
+Content Type: image/svg+xml
+
+Uri: https://static.rummytime.com/website/images/home-page-v2/value-propositions/Zero-fraud-guarantee.svg
+File Name: C:\Downloaded Web Sites\www.rummytime.com\website\images\home-page-v2\value-propositions\Zero-fraud-guarantee.svg
+Content Type: image/svg+xml
+
+Uri: https://static.rummytime.com/website/images/home/testimonials/testimonial-background-mobile.svg
+File Name: C:\Downloaded Web Sites\www.rummytime.com\website\images\home\testimonials\testimonial-background-mobile.svg
+Content Type: image/svg+xml
+
+Uri: https://static.rummytime.com/website/images/home/testimonials/testimonial-background.svg
+File Name: C:\Downloaded Web Sites\www.rummytime.com\website\images\home\testimonials\testimonial-background.svg
+Content Type: image/svg+xml
+
+Uri: https://static.rummytime.com/website/images/home/testimonials/testimonial-icon.svg
+File Name: C:\Downloaded Web Sites\www.rummytime.com\website\images\home\testimonials\testimonial-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://static.rummytime.com/website/images/social-media-icons/facebook.svg
+File Name: C:\Downloaded Web Sites\www.rummytime.com\website\images\social-media-icons\facebook.svg
+Content Type: image/svg+xml
+
+Uri: https://static.rummytime.com/website/images/social-media-icons/instagram.svg
+File Name: C:\Downloaded Web Sites\www.rummytime.com\website\images\social-media-icons\instagram.svg
+Content Type: image/svg+xml
+
+Uri: https://static.rummytime.com/website/images/social-media-icons/twitter.svg
+File Name: C:\Downloaded Web Sites\www.rummytime.com\website\images\social-media-icons\twitter.svg
+Content Type: image/svg+xml
+
+Uri: https://static.rummytime.com/website/images/social-media-icons/youtube.svg
+File Name: C:\Downloaded Web Sites\www.rummytime.com\website\images\social-media-icons\youtube.svg
+Content Type: image/svg+xml
+
+Uri: https://static.rummytime.com/website/images/sticky-download-button/download-icon.svg
+File Name: C:\Downloaded Web Sites\www.rummytime.com\website\images\sticky-download-button\download-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://static.rummytime.com/website/images/tds-policy/dashed-border-web.png
+File Name: C:\Downloaded Web Sites\www.rummytime.com\website\images\tds-policy\dashed-border-web.png
+Content Type: image/png
+
+Uri: https://static.rummytime.com/website/images/tds-policy/dotted-line.png
+File Name: C:\Downloaded Web Sites\www.rummytime.com\website\images\tds-policy\dotted-line.png
+Content Type: image/png
+
+Uri: https://static.rummytime.com/website/images/tds-policy/play.svg
+File Name: C:\Downloaded Web Sites\www.rummytime.com\website\images\tds-policy\play.svg
+Content Type: image/svg+xml
+
+Uri: https://static.rummytime.com/website/images/tournaments/banner/banner-mobile.webp
+File Name: C:\Downloaded Web Sites\www.rummytime.com\website\images\tournaments\banner\banner-mobile.webp
+Content Type: image/webp
+
+Uri: https://static.rummytime.com/website/images/tournaments/banner/banner.webp
+File Name: C:\Downloaded Web Sites\www.rummytime.com\website\images\tournaments\banner\banner.webp
+Content Type: image/webp
+
+Uri: https://static.rummytime.com/website/images/tournaments/value-propositions/Cash-Tourneys-24X7.svg
+File Name: C:\Downloaded Web Sites\www.rummytime.com\website\images\tournaments\value-propositions\Cash-Tourneys-24X7.svg
+Content Type: image/svg+xml
+
+Uri: https://static.rummytime.com/website/images/tournaments/value-propositions/free-tournaments-everyday.svg
+File Name: C:\Downloaded Web Sites\www.rummytime.com\website\images\tournaments\value-propositions\free-tournaments-everyday.svg
+Content Type: image/svg+xml
+
+Uri: https://static.rummytime.com/website/images/tournaments/value-propositions/Saturday-Mega-Free-Tourney.svg
+File Name: C:\Downloaded Web Sites\www.rummytime.com\website\images\tournaments\value-propositions\Saturday-Mega-Free-Tourney.svg
+Content Type: image/svg+xml
+
+Uri: https://www.rummytime.com/
+File Name: C:\Downloaded Web Sites\www.rummytime.com\index.htm
+Content Type: text/html
+
+Uri: https://www.rummytime.com/13-card-rummy/
+File Name: C:\Downloaded Web Sites\www.rummytime.com\13-card-rummy\index.htm
+Content Type: text/html
+
+Uri: https://www.rummytime.com/?code=0897B2
+File Name: C:\Downloaded Web Sites\www.rummytime.com\index-1.htm
+Content Type: text/html
+
+Uri: https://www.rummytime.com/about-us/
+File Name: C:\Downloaded Web Sites\www.rummytime.com\about-us\index.htm
+Content Type: text/html
+
+Uri: https://www.rummytime.com/blog/
+File Name: C:\Downloaded Web Sites\www.rummytime.com\blog\index.htm
+Content Type: text/html
+
+Uri: https://www.rummytime.com/blog/gaming-world-updates/
+File Name: C:\Downloaded Web Sites\www.rummytime.com\blog\gaming-world-updates\index.htm
+Content Type: text/html
+
+Uri: https://www.rummytime.com/blog/gaming-world-updates/28-gst-on-online-games-to-be-levied-on-entry-amount-and-not-winnings/
+File Name: C:\Downloaded Web Sites\www.rummytime.com\blog\gaming-world-updates\28-gst-on-online-games-to-be-levied-on-entry-amount-and-not-winnings\index.htm
+Content Type: text/html
+
+Uri: https://www.rummytime.com/blog/gaming-world-updates/india-can-become-the-leader-of-the-global-gaming-industry/
+File Name: C:\Downloaded Web Sites\www.rummytime.com\blog\gaming-world-updates\india-can-become-the-leader-of-the-global-gaming-industry\index.htm
+Content Type: text/html
+
+Uri: https://www.rummytime.com/blog/gaming-world-updates/skills-retains-all-aces-in-iit-delhi-study-on-rummy/
+File Name: C:\Downloaded Web Sites\www.rummytime.com\blog\gaming-world-updates\skills-retains-all-aces-in-iit-delhi-study-on-rummy\index.htm
+Content Type: text/html
+
+Uri: https://www.rummytime.com/blog/gaming-world-updates/the-indian-gaming-industry-will-re-pivot-after-gst-says-rmg-experts/
+File Name: C:\Downloaded Web Sites\www.rummytime.com\blog\gaming-world-updates\the-indian-gaming-industry-will-re-pivot-after-gst-says-rmg-experts\index.htm
+Content Type: text/html
+
+Uri: https://www.rummytime.com/Breif_RTPL_CSR_24.pdf
+File Name: C:\Downloaded Web Sites\www.rummytime.com\Breif_RTPL_CSR_24.pdf
+Content Type: application/pdf
+
+Uri: https://www.rummytime.com/cash-withdrawal-policy/
+File Name: C:\Downloaded Web Sites\www.rummytime.com\cash-withdrawal-policy\index.htm
+Content Type: text/html
+
+Uri: https://www.rummytime.com/contact-us/
+File Name: C:\Downloaded Web Sites\www.rummytime.com\contact-us\index.htm
+Content Type: text/html
+
+Uri: https://www.rummytime.com/fair-play-policy/
+File Name: C:\Downloaded Web Sites\www.rummytime.com\fair-play-policy\index.htm
+Content Type: text/html
+
+Uri: https://www.rummytime.com/favicon.ico
+File Name: C:\Downloaded Web Sites\www.rummytime.com\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.rummytime.com/fonts/RedHatDisplay-Bold.woff
+File Name: C:\Downloaded Web Sites\www.rummytime.com\fonts\RedHatDisplay-Bold.woff
+Content Type: font/woff
+
+Uri: https://www.rummytime.com/fonts/RedHatDisplay-Bold.woff2
+File Name: C:\Downloaded Web Sites\www.rummytime.com\fonts\RedHatDisplay-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://www.rummytime.com/fonts/RedHatDisplay-ExtraBold.woff
+File Name: C:\Downloaded Web Sites\www.rummytime.com\fonts\RedHatDisplay-ExtraBold.woff
+Content Type: font/woff
+
+Uri: https://www.rummytime.com/fonts/RedHatDisplay-ExtraBold.woff2
+File Name: C:\Downloaded Web Sites\www.rummytime.com\fonts\RedHatDisplay-ExtraBold.woff2
+Content Type: font/woff2
+
+Uri: https://www.rummytime.com/fonts/RedHatDisplay-Regular.woff
+File Name: C:\Downloaded Web Sites\www.rummytime.com\fonts\RedHatDisplay-Regular.woff
+Content Type: font/woff
+
+Uri: https://www.rummytime.com/fonts/RedHatDisplay-Regular.woff2
+File Name: C:\Downloaded Web Sites\www.rummytime.com\fonts\RedHatDisplay-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://www.rummytime.com/gst-policy/
+File Name: C:\Downloaded Web Sites\www.rummytime.com\gst-policy\index.htm
+Content Type: text/html
+
+Uri: https://www.rummytime.com/how-to-play-rummy/play-rummy-online-free/
+File Name: C:\Downloaded Web Sites\www.rummytime.com\how-to-play-rummy\play-rummy-online-free\index.htm
+Content Type: text/html
+
+Uri: https://www.rummytime.com/how-to-play-rummy/rummy-rules/
+File Name: C:\Downloaded Web Sites\www.rummytime.com\how-to-play-rummy\rummy-rules\index.htm
+Content Type: text/html
+
+Uri: https://www.rummytime.com/how-to-play-rummy/rummy-tips-strategies/
+File Name: C:\Downloaded Web Sites\www.rummytime.com\how-to-play-rummy\rummy-tips-strategies\index.htm
+Content Type: text/html
+
+Uri: https://www.rummytime.com/icon-128x128.png
+File Name: C:\Downloaded Web Sites\www.rummytime.com\icon-128x128.png
+Content Type: image/png
+
+Uri: https://www.rummytime.com/icon-144x144.png
+File Name: C:\Downloaded Web Sites\www.rummytime.com\icon-144x144.png
+Content Type: image/png
+
+Uri: https://www.rummytime.com/icon-192x192.png
+File Name: C:\Downloaded Web Sites\www.rummytime.com\icon-192x192.png
+Content Type: image/png
+
+Uri: https://www.rummytime.com/icon-384x384.png
+File Name: C:\Downloaded Web Sites\www.rummytime.com\icon-384x384.png
+Content Type: image/png
+
+Uri: https://www.rummytime.com/icon-48x48.png
+File Name: C:\Downloaded Web Sites\www.rummytime.com\icon-48x48.png
+Content Type: image/png
+
+Uri: https://www.rummytime.com/icon-512x512.png
+File Name: C:\Downloaded Web Sites\www.rummytime.com\icon-512x512.png
+Content Type: image/png
+
+Uri: https://www.rummytime.com/icon-72x72.png
+File Name: C:\Downloaded Web Sites\www.rummytime.com\icon-72x72.png
+Content Type: image/png
+
+Uri: https://www.rummytime.com/icon-96x96.png
+File Name: C:\Downloaded Web Sites\www.rummytime.com\icon-96x96.png
+Content Type: image/png
+
+Uri: https://www.rummytime.com/images/app-download/banner-image.png
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\app-download\banner-image.png
+Content Type: image/png
+
+Uri: https://www.rummytime.com/images/app-download/customer-support.png
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\app-download\customer-support.png
+Content Type: image/png
+
+Uri: https://www.rummytime.com/images/app-download/frame-pattern.png
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\app-download\frame-pattern.png
+Content Type: image/png
+
+Uri: https://www.rummytime.com/images/app-download/j-shaklesh.png
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\app-download\j-shaklesh.png
+Content Type: image/png
+
+Uri: https://www.rummytime.com/images/app-download/jaswinswe-singh.png
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\app-download\jaswinswe-singh.png
+Content Type: image/png
+
+Uri: https://www.rummytime.com/images/app-download/loved-rummy-platform.png
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\app-download\loved-rummy-platform.png
+Content Type: image/png
+
+Uri: https://www.rummytime.com/images/app-download/play-responsibly.png
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\app-download\play-responsibly.png
+Content Type: image/png
+
+Uri: https://www.rummytime.com/images/app-download/players.svg
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\app-download\players.svg
+Content Type: image/svg+xml
+
+Uri: https://www.rummytime.com/images/app-download/qr-code-160.webp
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\app-download\qr-code-160.webp
+Content Type: image/webp
+
+Uri: https://www.rummytime.com/images/app-download/qr-code-320.webp
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\app-download\qr-code-320.webp
+Content Type: image/webp
+
+Uri: https://www.rummytime.com/images/app-download/rng-certified.png
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\app-download\rng-certified.png
+Content Type: image/png
+
+Uri: https://www.rummytime.com/images/app-download/rummy-variations.png
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\app-download\rummy-variations.png
+Content Type: image/png
+
+Uri: https://www.rummytime.com/images/app-download/seamless-gameplay.png
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\app-download\seamless-gameplay.png
+Content Type: image/png
+
+Uri: https://www.rummytime.com/images/app-download/secure-payments.png
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\app-download\secure-payments.png
+Content Type: image/png
+
+Uri: https://www.rummytime.com/images/app-download/swaroop-biswas.png
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\app-download\swaroop-biswas.png
+Content Type: image/png
+
+Uri: https://www.rummytime.com/images/app-download/trusted-rummy-game.png
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\app-download\trusted-rummy-game.png
+Content Type: image/png
+
+Uri: https://www.rummytime.com/images/blog-images/13-card-rummy-14.webp
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\blog-images\13-card-rummy-14.webp
+Content Type: image/webp
+
+Uri: https://www.rummytime.com/images/blog-images/deals-rummy-19.webp
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\blog-images\deals-rummy-19.webp
+Content Type: image/webp
+
+Uri: https://www.rummytime.com/images/blog-images/free-rummy-10.webp
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\blog-images\free-rummy-10.webp
+Content Type: image/webp
+
+Uri: https://www.rummytime.com/images/blog-images/indian-rummy-15.webp
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\blog-images\indian-rummy-15.webp
+Content Type: image/webp
+
+Uri: https://www.rummytime.com/images/blog-images/points-rummy-18.webp
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\blog-images\points-rummy-18.webp
+Content Type: image/webp
+
+Uri: https://www.rummytime.com/images/blog-images/pool-rummy-17.webp
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\blog-images\pool-rummy-17.webp
+Content Type: image/webp
+
+Uri: https://www.rummytime.com/images/blog-images/real-cash-rummy-4.webp
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\blog-images\real-cash-rummy-4.webp
+Content Type: image/webp
+
+Uri: https://www.rummytime.com/images/blog-images/rummy-rules-image-1.webp
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\blog-images\rummy-rules-image-1.webp
+Content Type: image/webp
+
+Uri: https://www.rummytime.com/images/blog-images/rummy-tips-and-tricks-13.webp
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\blog-images\rummy-tips-and-tricks-13.webp
+Content Type: image/webp
+
+Uri: https://www.rummytime.com/images/blog-images/rummy-variants-16.webp
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\blog-images\rummy-variants-16.webp
+Content Type: image/webp
+
+Uri: https://www.rummytime.com/images/clear-tax-page/avail-offer-1.webp
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\clear-tax-page\avail-offer-1.webp
+Content Type: image/webp
+
+Uri: https://www.rummytime.com/images/clear-tax-page/avail-offer-2.webp
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\clear-tax-page\avail-offer-2.webp
+Content Type: image/webp
+
+Uri: https://www.rummytime.com/images/clear-tax-page/avail-offer-3.webp
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\clear-tax-page\avail-offer-3.webp
+Content Type: image/webp
+
+Uri: https://www.rummytime.com/images/clear-tax-page/avail-offer-4.webp
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\clear-tax-page\avail-offer-4.webp
+Content Type: image/webp
+
+Uri: https://www.rummytime.com/images/clear-tax-page/dk_with_mobile.webp
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\clear-tax-page\dk_with_mobile.webp
+Content Type: image/webp
+
+Uri: https://www.rummytime.com/images/clear-tax-page/qr_code.webp
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\clear-tax-page\qr_code.webp
+Content Type: image/webp
+
+Uri: https://www.rummytime.com/images/footer/app-store.svg
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\footer\app-store.svg
+Content Type: image/svg+xml
+
+Uri: https://www.rummytime.com/images/footer/play-store.svg
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\footer\play-store.svg
+Content Type: image/svg+xml
+
+Uri: https://www.rummytime.com/images/generic-icons/add-cash.svg
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\generic-icons\add-cash.svg
+Content Type: image/svg+xml
+
+Uri: https://www.rummytime.com/images/generic-icons/dc.png
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\generic-icons\dc.png
+Content Type: image/png
+
+Uri: https://www.rummytime.com/images/generic-icons/divider.svg
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\generic-icons\divider.svg
+Content Type: image/svg+xml
+
+Uri: https://www.rummytime.com/images/generic-icons/free-games.svg
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\generic-icons\free-games.svg
+Content Type: image/svg+xml
+
+Uri: https://www.rummytime.com/images/generic-icons/gst-policy.svg
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\generic-icons\gst-policy.svg
+Content Type: image/svg+xml
+
+Uri: https://www.rummytime.com/images/generic-icons/pattern.svg
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\generic-icons\pattern.svg
+Content Type: image/svg+xml
+
+Uri: https://www.rummytime.com/images/generic-icons/right-arrow.svg
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\generic-icons\right-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://www.rummytime.com/images/generic-icons/superboost.png
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\generic-icons\superboost.png
+Content Type: image/png
+
+Uri: https://www.rummytime.com/images/generic-icons/withdrawal.svg
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\generic-icons\withdrawal.svg
+Content Type: image/svg+xml
+
+Uri: https://www.rummytime.com/images/gst/28-gst-on-deposit-of-100-the-wrong-calculation.png
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\gst\28-gst-on-deposit-of-100-the-wrong-calculation.png
+Content Type: image/png
+
+Uri: https://www.rummytime.com/images/gst/gst-law-impact.png
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\gst\gst-law-impact.png
+Content Type: image/png
+
+Uri: https://www.rummytime.com/images/gst/learn-extra-discount-credits.png
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\gst\learn-extra-discount-credits.png
+Content Type: image/png
+
+Uri: https://www.rummytime.com/images/gst/superboost-more-useful-than-add-cash.png
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\gst\superboost-more-useful-than-add-cash.png
+Content Type: image/png
+
+Uri: https://www.rummytime.com/images/gst/video-thumbnails-add-cash.png
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\gst\video-thumbnails-add-cash.png
+Content Type: image/png
+
+Uri: https://www.rummytime.com/images/gst/video-thumbnails-discount-credits.png
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\gst\video-thumbnails-discount-credits.png
+Content Type: image/png
+
+Uri: https://www.rummytime.com/images/gst/video-thumbnails-free-games.png
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\gst\video-thumbnails-free-games.png
+Content Type: image/png
+
+Uri: https://www.rummytime.com/images/gst/video-thumbnails-gst-policy.png
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\gst\video-thumbnails-gst-policy.png
+Content Type: image/png
+
+Uri: https://www.rummytime.com/images/gst/video-thumbnails-one-withdrawal-policy.png
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\gst\video-thumbnails-one-withdrawal-policy.png
+Content Type: image/png
+
+Uri: https://www.rummytime.com/images/gst/video-thumbnails-superboost.png
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\gst\video-thumbnails-superboost.png
+Content Type: image/png
+
+Uri: https://www.rummytime.com/images/gst/what-is-super-saver.png
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\gst\what-is-super-saver.png
+Content Type: image/png
+
+Uri: https://www.rummytime.com/images/logo-footer.webp
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\logo-footer.webp
+Content Type: image/webp
+
+Uri: https://www.rummytime.com/images/logo.webp
+File Name: C:\Downloaded Web Sites\www.rummytime.com\images\logo.webp
+Content Type: image/webp
+
+Uri: https://www.rummytime.com/indian-rummy-game/
+File Name: C:\Downloaded Web Sites\www.rummytime.com\indian-rummy-game\index.htm
+Content Type: text/html
+
+Uri: https://www.rummytime.com/legal-and-responsible/
+File Name: C:\Downloaded Web Sites\www.rummytime.com\legal-and-responsible\index.htm
+Content Type: text/html
+
+Uri: https://www.rummytime.com/manifest.json
+File Name: C:\Downloaded Web Sites\www.rummytime.com\manifest.json
+Content Type: application/json
+
+Uri: https://www.rummytime.com/privacy-policy/
+File Name: C:\Downloaded Web Sites\www.rummytime.com\privacy-policy\index.htm
+Content Type: text/html
+
+Uri: https://www.rummytime.com/real-cash-rummy-game/
+File Name: C:\Downloaded Web Sites\www.rummytime.com\real-cash-rummy-game\index.htm
+Content Type: text/html
+
+Uri: https://www.rummytime.com/referral-offers/
+File Name: C:\Downloaded Web Sites\www.rummytime.com\referral-offers\index.htm
+Content Type: text/html
+
+Uri: https://www.rummytime.com/rng-verification/
+File Name: C:\Downloaded Web Sites\www.rummytime.com\rng-verification\index.htm
+Content Type: text/html
+
+Uri: https://www.rummytime.com/rummy-faqs/
+File Name: C:\Downloaded Web Sites\www.rummytime.com\rummy-faqs\index.htm
+Content Type: text/html
+
+Uri: https://www.rummytime.com/rummy-game-app-download/
+File Name: C:\Downloaded Web Sites\www.rummytime.com\rummy-game-app-download\index.htm
+Content Type: text/html
+
+Uri: https://www.rummytime.com/rummy-tournaments/
+File Name: C:\Downloaded Web Sites\www.rummytime.com\rummy-tournaments\index.htm
+Content Type: text/html
+
+Uri: https://www.rummytime.com/rummy-variations/
+File Name: C:\Downloaded Web Sites\www.rummytime.com\rummy-variations\index.htm
+Content Type: text/html
+
+Uri: https://www.rummytime.com/rummy-variations/deals-rummy-game/
+File Name: C:\Downloaded Web Sites\www.rummytime.com\rummy-variations\deals-rummy-game\index.htm
+Content Type: text/html
+
+Uri: https://www.rummytime.com/rummy-variations/points-rummy-game/
+File Name: C:\Downloaded Web Sites\www.rummytime.com\rummy-variations\points-rummy-game\index.htm
+Content Type: text/html
+
+Uri: https://www.rummytime.com/rummy-variations/pool-rummy-game/
+File Name: C:\Downloaded Web Sites\www.rummytime.com\rummy-variations\pool-rummy-game\index.htm
+Content Type: text/html
+
+Uri: https://www.rummytime.com/tds-policy/
+File Name: C:\Downloaded Web Sites\www.rummytime.com\tds-policy\index.htm
+Content Type: text/html
+
+Uri: https://www.rummytime.com/tds-policy/tds-filing/
+File Name: C:\Downloaded Web Sites\www.rummytime.com\tds-policy\tds-filing\index.htm
+Content Type: text/html
+
+Uri: https://www.rummytime.com/terms-and-conditions/
+File Name: C:\Downloaded Web Sites\www.rummytime.com\terms-and-conditions\index.htm
+Content Type: text/html
+
+Uri: https://www.rummytime.com/testimonials/
+File Name: C:\Downloaded Web Sites\www.rummytime.com\testimonials\index.htm
+Content Type: text/html
+
+Uri: https://www.rummytime.com/wp-content/uploads/20231009113856/Online-Gaming-Industry-will-Re-Pivot-in-GST-Era.png
+File Name: C:\Downloaded Web Sites\www.rummytime.com\wp-content\uploads\20231009113856\Online-Gaming-Industry-will-Re-Pivot-in-GST-Era.png
+Content Type: image/png
+
+Uri: https://www.rummytime.com/wp-content/uploads/20231009114225/28-GST-on-online-games-to-be-levied-on-entry-amount-not-winnings.png
+File Name: C:\Downloaded Web Sites\www.rummytime.com\wp-content\uploads\20231009114225\28-GST-on-online-games-to-be-levied-on-entry-amount-not-winnings.png
+Content Type: image/png
+
+Uri: https://www.rummytime.com/wp-content/uploads/20231009115000/India-can-still-Lead-Global-Online-Gaming-Industry-1.png
+File Name: C:\Downloaded Web Sites\www.rummytime.com\wp-content\uploads\20231009115000\India-can-still-Lead-Global-Online-Gaming-Industry-1.png
+Content Type: image/png
+
+Uri: https://www.rummytime.com/wp-content/uploads/20231009115824/IIT-D-Study-Says-that-Rummy-is-the-Game-of-Skill.png
+File Name: C:\Downloaded Web Sites\www.rummytime.com\wp-content\uploads\20231009115824\IIT-D-Study-Says-that-Rummy-is-the-Game-of-Skill.png
+Content Type: image/png
+
+Uri: https://www.rummytime.com/_nuxt/04a6793.js
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\04a6793.js
+Content Type: application/javascript
+
+Uri: https://www.rummytime.com/_nuxt/1c896db.js
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\1c896db.js
+Content Type: application/javascript
+
+Uri: https://www.rummytime.com/_nuxt/235ad38.js
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\235ad38.js
+Content Type: application/javascript
+
+Uri: https://www.rummytime.com/_nuxt/2c2fa0e.js
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\2c2fa0e.js
+Content Type: application/javascript
+
+Uri: https://www.rummytime.com/_nuxt/3644f68.js
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\3644f68.js
+Content Type: application/javascript
+
+Uri: https://www.rummytime.com/_nuxt/36477cc.js
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\36477cc.js
+Content Type: application/javascript
+
+Uri: https://www.rummytime.com/_nuxt/46d2287.js
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\46d2287.js
+Content Type: application/javascript
+
+Uri: https://www.rummytime.com/_nuxt/4a93729.js
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\4a93729.js
+Content Type: application/javascript
+
+Uri: https://www.rummytime.com/_nuxt/4c5567a.js
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\4c5567a.js
+Content Type: application/javascript
+
+Uri: https://www.rummytime.com/_nuxt/4c792b5.js
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\4c792b5.js
+Content Type: application/javascript
+
+Uri: https://www.rummytime.com/_nuxt/4ff03f5.js
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\4ff03f5.js
+Content Type: application/javascript
+
+Uri: https://www.rummytime.com/_nuxt/5084149.js
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\5084149.js
+Content Type: application/javascript
+
+Uri: https://www.rummytime.com/_nuxt/55f7846.js
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\55f7846.js
+Content Type: application/javascript
+
+Uri: https://www.rummytime.com/_nuxt/58d0268.js
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\58d0268.js
+Content Type: application/javascript
+
+Uri: https://www.rummytime.com/_nuxt/5a3dbd5.js
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\5a3dbd5.js
+Content Type: application/javascript
+
+Uri: https://www.rummytime.com/_nuxt/5ad22e7.js
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\5ad22e7.js
+Content Type: application/javascript
+
+Uri: https://www.rummytime.com/_nuxt/5d3e000.js
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\5d3e000.js
+Content Type: application/javascript
+
+Uri: https://www.rummytime.com/_nuxt/61b9a81.js
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\61b9a81.js
+Content Type: application/javascript
+
+Uri: https://www.rummytime.com/_nuxt/6400c40.js
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\6400c40.js
+Content Type: application/javascript
+
+Uri: https://www.rummytime.com/_nuxt/6cace40.js
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\6cace40.js
+Content Type: application/javascript
+
+Uri: https://www.rummytime.com/_nuxt/6d7aa7f.js
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\6d7aa7f.js
+Content Type: application/javascript
+
+Uri: https://www.rummytime.com/_nuxt/6e8d8e3.js
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\6e8d8e3.js
+Content Type: application/javascript
+
+Uri: https://www.rummytime.com/_nuxt/746e74b.js
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\746e74b.js
+Content Type: application/javascript
+
+Uri: https://www.rummytime.com/_nuxt/7750c0c.js
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\7750c0c.js
+Content Type: application/javascript
+
+Uri: https://www.rummytime.com/_nuxt/792dc7a.js
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\792dc7a.js
+Content Type: application/javascript
+
+Uri: https://www.rummytime.com/_nuxt/7e52905.js
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\7e52905.js
+Content Type: application/javascript
+
+Uri: https://www.rummytime.com/_nuxt/803c708.js
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\803c708.js
+Content Type: application/javascript
+
+Uri: https://www.rummytime.com/_nuxt/8144d0c.js
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\8144d0c.js
+Content Type: application/javascript
+
+Uri: https://www.rummytime.com/_nuxt/82e2489.js
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\82e2489.js
+Content Type: application/javascript
+
+Uri: https://www.rummytime.com/_nuxt/891b13c.js
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\891b13c.js
+Content Type: application/javascript
+
+Uri: https://www.rummytime.com/_nuxt/948b108.js
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\948b108.js
+Content Type: application/javascript
+
+Uri: https://www.rummytime.com/_nuxt/a0219ee.js
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\a0219ee.js
+Content Type: application/javascript
+
+Uri: https://www.rummytime.com/_nuxt/a0e27ed.js
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\a0e27ed.js
+Content Type: application/javascript
+
+Uri: https://www.rummytime.com/_nuxt/abe679b.js
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\abe679b.js
+Content Type: application/javascript
+
+Uri: https://www.rummytime.com/_nuxt/bbc1de4.js
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\bbc1de4.js
+Content Type: application/javascript
+
+Uri: https://www.rummytime.com/_nuxt/c15ab6c.js
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\c15ab6c.js
+Content Type: application/javascript
+
+Uri: https://www.rummytime.com/_nuxt/c44f300.js
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\c44f300.js
+Content Type: application/javascript
+
+Uri: https://www.rummytime.com/_nuxt/cc9dee7.js
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\cc9dee7.js
+Content Type: application/javascript
+
+Uri: https://www.rummytime.com/_nuxt/css/14be280.css
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\css\14be280.css
+Content Type: text/css
+
+Uri: https://www.rummytime.com/_nuxt/css/21ae978.css
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\css\21ae978.css
+Content Type: text/css
+
+Uri: https://www.rummytime.com/_nuxt/css/23e24ff.css
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\css\23e24ff.css
+Content Type: text/css
+
+Uri: https://www.rummytime.com/_nuxt/css/29cf095.css
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\css\29cf095.css
+Content Type: text/css
+
+Uri: https://www.rummytime.com/_nuxt/css/2bfd7f8.css
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\css\2bfd7f8.css
+Content Type: text/css
+
+Uri: https://www.rummytime.com/_nuxt/css/378ff48.css
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\css\378ff48.css
+Content Type: text/css
+
+Uri: https://www.rummytime.com/_nuxt/css/3892dc4.css
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\css\3892dc4.css
+Content Type: text/css
+
+Uri: https://www.rummytime.com/_nuxt/css/3c5d747.css
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\css\3c5d747.css
+Content Type: text/css
+
+Uri: https://www.rummytime.com/_nuxt/css/45a8fbd.css
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\css\45a8fbd.css
+Content Type: text/css
+
+Uri: https://www.rummytime.com/_nuxt/css/59bc2f2.css
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\css\59bc2f2.css
+Content Type: text/css
+
+Uri: https://www.rummytime.com/_nuxt/css/5e21abf.css
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\css\5e21abf.css
+Content Type: text/css
+
+Uri: https://www.rummytime.com/_nuxt/css/6ac7ccd.css
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\css\6ac7ccd.css
+Content Type: text/css
+
+Uri: https://www.rummytime.com/_nuxt/css/6c32a49.css
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\css\6c32a49.css
+Content Type: text/css
+
+Uri: https://www.rummytime.com/_nuxt/css/7ff9ad1.css
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\css\7ff9ad1.css
+Content Type: text/css
+
+Uri: https://www.rummytime.com/_nuxt/css/8149219.css
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\css\8149219.css
+Content Type: text/css
+
+Uri: https://www.rummytime.com/_nuxt/css/89e888a.css
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\css\89e888a.css
+Content Type: text/css
+
+Uri: https://www.rummytime.com/_nuxt/css/8a979d1.css
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\css\8a979d1.css
+Content Type: text/css
+
+Uri: https://www.rummytime.com/_nuxt/css/9963593.css
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\css\9963593.css
+Content Type: text/css
+
+Uri: https://www.rummytime.com/_nuxt/css/a28ea9d.css
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\css\a28ea9d.css
+Content Type: text/css
+
+Uri: https://www.rummytime.com/_nuxt/css/a6536d3.css
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\css\a6536d3.css
+Content Type: text/css
+
+Uri: https://www.rummytime.com/_nuxt/css/b97a591.css
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\css\b97a591.css
+Content Type: text/css
+
+Uri: https://www.rummytime.com/_nuxt/css/b9c8707.css
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\css\b9c8707.css
+Content Type: text/css
+
+Uri: https://www.rummytime.com/_nuxt/css/caa9cd2.css
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\css\caa9cd2.css
+Content Type: text/css
+
+Uri: https://www.rummytime.com/_nuxt/css/d92f7f2.css
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\css\d92f7f2.css
+Content Type: text/css
+
+Uri: https://www.rummytime.com/_nuxt/css/e0886bc.css
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\css\e0886bc.css
+Content Type: text/css
+
+Uri: https://www.rummytime.com/_nuxt/css/e0d9967.css
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\css\e0d9967.css
+Content Type: text/css
+
+Uri: https://www.rummytime.com/_nuxt/css/fcc5ffe.css
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\css\fcc5ffe.css
+Content Type: text/css
+
+Uri: https://www.rummytime.com/_nuxt/d1047c2.js
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\d1047c2.js
+Content Type: application/javascript
+
+Uri: https://www.rummytime.com/_nuxt/ddf5782.js
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\ddf5782.js
+Content Type: application/javascript
+
+Uri: https://www.rummytime.com/_nuxt/ea83268.js
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\ea83268.js
+Content Type: application/javascript
+
+Uri: https://www.rummytime.com/_nuxt/f232b5f.js
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\f232b5f.js
+Content Type: application/javascript
+
+Uri: https://www.rummytime.com/_nuxt/fc7a1c2.js
+File Name: C:\Downloaded Web Sites\www.rummytime.com\_nuxt\fc7a1c2.js
+Content Type: application/javascript
+
